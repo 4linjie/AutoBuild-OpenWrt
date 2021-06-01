@@ -6,7 +6,6 @@
 #=================================================
 
 name: Build_Redmi_AC2100
-
 on: 
   release:
     types: [published]
